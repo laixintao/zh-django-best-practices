@@ -84,11 +84,7 @@ and-distributing-django-apps-setupt/>`__.
 
 如果你上传 app 到 Pypi, 建议最好在你的项目名前加上 "django-" 前缀.
 
-(yospaly: 以下不解其意, 望达人指点)
-Also note, that when below when we refer to the default place for
-something as a file, that also means that you can make a directory of
-that same name; as per normal python.
-
+注意，下文中我们提到在某个地方放置什么文件时，你也可以在这个位置建一个同名的文件夹，用python包代替。
 
 .. _apps-documentation:
 
